@@ -101,16 +101,13 @@ The system analyzes resumes, detects technical skills, predicts career roles usi
 ## Screenshots
 
 ### Home Page
-
-(Add Screenshot Here)
+<img width="1920" height="1020" alt="carrerMatch" src="https://github.com/user-attachments/assets/9e889750-18ab-4f6e-b86b-532c67cedb99" />
 
 ### Analysis Result
-
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="analysis1" src="https://github.com/user-attachments/assets/c5f73786-66c3-426f-8394-a3072d1bf005" />
 
 ### Generated PDF Report
-
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="downloadedReport" src="https://github.com/user-attachments/assets/94e011ad-f337-47e9-9afd-f25c7470101e" />
 
 ---
 
