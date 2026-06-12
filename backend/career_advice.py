@@ -1,8 +1,11 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 import requests
 
 API_URL = "https://router.huggingface.co/featherless-ai/v1/completions"
 
-import os
 
 HF_TOKEN = os.getenv("HF_TOKEN")
 
