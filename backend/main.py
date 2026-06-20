@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 
-from backend.career_advice import get_career_advice
+from career_advice import get_career_advice
 from skill_extractor import extract_skills
 from report_generator import generate_report
 
@@ -12,7 +12,7 @@ import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from backend.job_roles import job_roles
+from job_roles import job_roles
 
 app = FastAPI()
 

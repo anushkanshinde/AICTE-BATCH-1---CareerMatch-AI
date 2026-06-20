@@ -1,8 +1,9 @@
+streamlit
 fastapi
 uvicorn
 scikit-learn
-pandas
-numpy
 joblib
-pymupdf
-python-multipart 
+PyMuPDF
+reportlab
+requests
+python-dotenv
